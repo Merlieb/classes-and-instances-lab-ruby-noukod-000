@@ -1,3 +1,5 @@
-class dog
-  
+class Dog
+def fido(snoopy, lassie)
+
+end
 end
