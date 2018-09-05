@@ -1,5 +1,6 @@
 class Dog
-def fido(snoopy, lassie)
-
+  
 end
-end
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
